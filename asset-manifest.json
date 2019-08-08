@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/binarytodecimal/static/css/main.b3ae0f0b.chunk.css",
+    "main.js": "/binarytodecimal/static/js/main.f4c302e1.chunk.js",
+    "main.js.map": "/binarytodecimal/static/js/main.f4c302e1.chunk.js.map",
+    "runtime~main.js": "/binarytodecimal/static/js/runtime~main.91e0fef5.js",
+    "runtime~main.js.map": "/binarytodecimal/static/js/runtime~main.91e0fef5.js.map",
+    "static/js/2.c2695c00.chunk.js": "/binarytodecimal/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/binarytodecimal/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/binarytodecimal/index.html",
+    "precache-manifest.6f3f44e142d589cc2f1e0a7622ec4eef.js": "/binarytodecimal/precache-manifest.6f3f44e142d589cc2f1e0a7622ec4eef.js",
+    "service-worker.js": "/binarytodecimal/service-worker.js",
+    "static/css/main.b3ae0f0b.chunk.css.map": "/binarytodecimal/static/css/main.b3ae0f0b.chunk.css.map"
+  }
+}
